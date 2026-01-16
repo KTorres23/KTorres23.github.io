@@ -29,20 +29,20 @@ author:
   bio              : "MS Student in Forestry at SIU, PEASE Lab"
   location         : "Carbondale, IL"
   employer         : "Southern Illinois University"
-  uri              : "https://sfh.siu.edu/"
+  uri              : "https://ktorres23.github.io/"
   email            : "karina.torres@siu.edu" 
 
   # Academic websites
-  academia         : "https://ktorres23.github.io/"
-  #arxiv            : # URL - Update with the correct link to your profile
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=vulOb8MAAAAJ&hl=en&oi=ao"
-  #inspire-hep      : # URL
-  #impactstory      : # URL
+  inspire-hep      : # URL
+  impactstory      : # URL
   orcid            : "http://orcid.org/0009-0003-0578-094X"
-  #semantic         : # URL
-  #pubmed           : # URL
+  semantic         : # URL
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Karina-Torres-30?ev=hdr_xprf"
-  #scopus           : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
