@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* **M.S., Forestry**, August 2025 - Present [expected May 2027]
+  * Southern Illinois University, Carbondale IL
+  * **Graduate Thesis**, advised by [Dr. Brent S. Pease](https://peaselab.com/): Applications of secondary image data for novel ecological discovery
+* **B.S., Forest Resources and Conservation**, August 2023 – 2025
+  * University of Florida, Milton, FL, 4.0 GPA, Summa Cum Laude
+  * **Undergraduate Honors Thesis**, advised by [Dr. Victoria M. Donovan](http://www.victoriamdonovan.org/): Biophysical and anthropogenic factors influencing human-caused wildfire occurrence in the southeastern United States
+* **A.A., General Studies**, August 2020 – May 2023
+  * Pensacola State College, Pensacola, FL, 4.0 GPA, Summa Cum Laude
+* **High School Diploma**, August 2019 – Dec 2022 
+  * Escambia Virtual Academy, 5.03 GPA (Dual-enrolled at Pensacola State College)
+
 
 Work experience
 ======
