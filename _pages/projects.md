@@ -8,6 +8,8 @@ redirect_from:
   - /research
 ---
 
+{% include base_path %}
+
 ## Projects
 
 This is a minimal Projects page. Replace this placeholder with projects
@@ -20,7 +22,7 @@ This is a minimal Projects page. Replace this placeholder with projects
 
 - Project 2 — short description
   
-  
+
 ### Project 3
 
 - Project 3 — short description

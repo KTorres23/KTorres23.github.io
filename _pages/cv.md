@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 
 * **M.S., Forestry**, August 2025 - Present [expected May 2027]
   * Southern Illinois University, Carbondale IL
@@ -24,8 +23,8 @@ Education
   * Escambia Virtual Academy, 5.03 GPA (Dual-enrolled at Pensacola State College)
 
 
-Work experience
-======
+## Research experience
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -41,8 +40,8 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -50,24 +49,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## [Publications](../_pages/publications.html)
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## [Talks](../_pages/talks.html)
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## [Teaching](../_pages/teaching.html)
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
+
 * Currently signed in to 43 different slack teams

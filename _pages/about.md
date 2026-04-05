@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+### About Me
+
 I'm a Master's student in [Forestry](https://sfh.siu.edu/) at [Southern Illinois University](https://siu.edu/) advised by [Dr. Brent S. Pease](https://peaselab.com). I am focused on exploring the intersection of **community science**, **technology**, and **biology**. My Master's research lies in the [digital ecology](https://doi.org/10.1111/2041-210x.70243) domain, where I focus on leveraging secondary image data from [iNaturalist](https://www.inaturalist.org/) to study (1) how distinguishing observer behaviors in species distribution modelling can better address spatial biases and (2) how digitally-derived morphological characters can support taxonomic classifications through the framework of integrative taxonomy.
 
 On a broader scale, my interdisciplinary work applies the computer and community sciences to address long-standing ecological challenges. Spanning diverse topics from wildfires to moths, my research draws insights from a wide range of disciplines. It touches on biogeography, data science, artificial intelligence, machine & deep learning, taxonomy, ecology, conservation, and so much more.
@@ -22,8 +24,9 @@ Because of this, I find it hard to box myself into a single discipline. While my
 
 ### Recent Updates
 
-### Quick Links & Resources
-* **[My academic website](https://ktorres23.github.io/)**
-* **[My Master's Thesis Research in digital ecology](../_pages/projects.md#project-1)**
-* **[My Undergraduate Thesis Research in wildfire risks](../_pages/projects.md#project-2)**
-* **[My Undergraduate Research Projects in automated moth species ID](../_pages/projects.md#project-3)**
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7442689528731164672?collapsed=1" height="634" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### Quick Links
+* **[Master's Thesis Research in digital ecology](../_pages/projects.md#project-1)**
+* **[Undergraduate Thesis Research in wildfire risks](../_pages/projects.md#project-2)**
+* **[Undergraduate Research Projects in automated moth species ID](../_pages/projects.md#project-3)**
