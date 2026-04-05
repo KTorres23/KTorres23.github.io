@@ -15,6 +15,8 @@ This is a minimal Projects page. Replace this placeholder with projects
 
 ### Project 1
 
+Digital ecology :)
+
 - Project 1 — short description
 
 ### Project 2
