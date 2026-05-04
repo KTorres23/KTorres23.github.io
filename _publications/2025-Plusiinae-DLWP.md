@@ -3,7 +3,7 @@ title: "Integration of wing pattern morphology and deep learning to support Plus
 collection: publications
 category: manuscripts
 permalink: /publication/2025-Plusiinae-DLWP
-excerpt: '"...This study introduces a novel application of existing deep learning models and techniques for quickly identifying plusiine pests, with potential uses for pest monitoring programs targeting economic plusiine pests beyond SBL [Soybean looper, Chrysodeixis includens]."'
+excerpt: '"...This study introduces a novel application of existing deep learning models and techniques for quickly identifying plusiine pests, with potential uses for pest monitoring programs targeting economic plusiine pests beyond SBL [Soybean looper, <i>Chrysodeixis includens</i>]."'
 date: 2025-07-07
 venue: 'Frontiers in Agronomy'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

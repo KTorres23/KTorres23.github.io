@@ -91,6 +91,15 @@ publication_category:
   theses:
     title: 'Theses and Dissertations'
 
+# Talk Category - The following is the list of talk categories and their headings
+talk_category:
+  conference:
+    title: 'Conference presentation & posters'
+  competitions:
+    title: 'Competitions'
+  invited:
+    title: 'Invited/Guest Lectures and Seminars'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
