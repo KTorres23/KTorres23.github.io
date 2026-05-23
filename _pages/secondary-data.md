@@ -1,9 +1,13 @@
 ---
-layout: archive
 title: "Secondary Data"
 permalink: /secondary-data/
+layout: archive
 author_profile: true
+date: "2026-05-23"
+hide_disclaimer: false
 ---
+
+{% include base_path %}
 
 ![Secondary data definition figure](..\images\secondary_data_definition_fig.png)
 

@@ -28,7 +28,7 @@ Because of this, I find it hard to box myself into a single discipline. While my
 <!-- LinkedIn widget -->
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7457128240718168065?collapsed=1" height="627" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-<!-- Modern iNaturalist Widget -->
+<!-- Modern iNaturalist Widget (Fixed Image Ratios) -->
 <style type="text/css" media="screen">
   .inat-widget { 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
@@ -48,18 +48,14 @@ Because of this, I find it hard to box myself into a single discipline. While my
     padding-bottom: 12px;
   }
   
+  /* Modern SVG Logo */
   .inat-widget-header img {
-    height: 28px; /* Clean, constrained logo sizing */
-    width: auto;
-    opacity: 0.85;
-    transition: opacity 0.2s ease;
-  }
-  
-  .inat-widget-header img:hover {
-    opacity: 1;
+    height: 24px !important; 
+    width: auto !important;
+    opacity: 0.9;
+    display: block;
   }
 
-  /* Styling the dynamically injected script observations */
   .inat-widget table {
     width: 100%;
     border-collapse: collapse;
@@ -70,6 +66,12 @@ Because of this, I find it hard to box myself into a single discipline. While my
     vertical-align: middle; 
     padding: 12px 0;
     border-bottom: 1px solid #f6f8fa;
+  }
+  
+  /* Prevent the table from squishing the images */
+  .inat-widget td:first-child {
+    width: 70px;
+    min-width: 70px;
   }
   
   .inat-label { 
@@ -87,7 +89,7 @@ Because of this, I find it hard to box myself into a single discipline. While my
   }
   
   .inat-value a:hover {
-    color: #74ac00; /* iNaturalist green accent */
+    color: #74ac00;
     text-decoration: underline;
   }
   
@@ -99,31 +101,31 @@ Because of this, I find it hard to box myself into a single discipline. While my
   }
 
   .inat-observation-body, .inat-user-body { 
-    padding-left: 16px; 
+    padding-left: 12px; 
   }
   
+  /* Hard override for Observation Images */
   .inat-observation-image {
     text-align: center;
-    width: 64px; 
-    height: 64px;
-    display: inline-block; 
+    width: 64px !important; 
+    height: 64px !important;
+    display: block !important; 
     overflow: hidden;
     border-radius: 6px;
     border: 1px solid #e1e4e8;
+    padding: 0 !important;
+    margin: 0 !important;
   }
   
   .inat-observation-image img { 
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Keeps images crisp and square without distortion */
-    transition: transform 0.2s ease;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none !important; /* Fixes Jekyll theme interference */
+    max-height: none !important;
+    object-fit: cover !important; 
+    display: block !important;
   }
 
-  .inat-observation-image img:hover {
-    transform: scale(1.05);
-  }
-
-  /* User Footer Row Layout */
   .inat-footer {
     margin-top: 15px;
     padding-top: 15px;
@@ -131,19 +133,25 @@ Because of this, I find it hard to box myself into a single discipline. While my
     width: 100%;
   }
 
+  /* Hard override for Profile Image */
   .inat-user-image { 
-    width: 44px; 
-    height: 44px;
-    display: inline-block;
-    border-radius: 50%; /* Circular avatar */
-    overflow: hidden;
-    border: 2px solid #74ac00;
+    width: 44px !important; 
+    height: 44px !important;
+    display: block !important;
+    border-radius: 50% !important; 
+    overflow: hidden !important;
+    border: 2px solid #74ac00 !important;
+    padding: 0 !important;
+    margin: 0 !important;
   }
 
   .inat-user-image img.usericon { 
-    width: 100%; 
-    height: 100%;
-    object-fit: cover;
+    width: 100% !important; 
+    height: 100% !important;
+    max-width: none !important;
+    max-height: none !important;
+    object-fit: cover !important;
+    display: block !important;
   }
   
   .inat-footer td.inat-value {
@@ -153,27 +161,19 @@ Because of this, I find it hard to box myself into a single discipline. While my
   .inat-footer td.inat-value a {
     color: #74ac00;
     font-size: 0.95em;
-    letter-spacing: -0.2px;
-    transition: color 0.2s ease;
-  }
-
-  .inat-footer td.inat-value a:hover {
-    color: #5b8700;
-    text-decoration: none;
   }
 </style>
 
 <div class="inat-widget">
   <div class="inat-widget-header">
     <a href="https://www.inaturalist.org" target="_blank" rel="noopener">
-      <img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small.gif" />
+      <!-- Swapped to the official vector SVG -->
+      <img alt="iNaturalist" src="https://static.inaturalist.org/sites/1-logo.svg" />
     </a>  
   </div>
 
-  <!-- Dynamic iNaturalist Script Component -->
   <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/kmtorres.widget?layout=large&limit=5&order=desc&order_by=observed_on"></script>
 
-  <!-- Cleaned Footer Branding -->
   <table class="inat-footer">
     <tr class="inat-user">
       <td class="inat-user-image" style="border: none;">

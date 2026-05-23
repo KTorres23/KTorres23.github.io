@@ -124,7 +124,7 @@ layout: default
           <strong>&copy; {{ "now" | date: "%Y" }} {{ site.author.name | default: site.name }}.</strong> All rights reserved.<br>
           <span style="display: block; margin-top: 6px; color: #666;">
             <em>If referencing any preliminary findings or ideas, please cite as:</em><br>
-            {{ site.author.name | default: site.name }}, "{{ page.title }}," <em>{{ site.title }}</em>, {{ page.date | date: "%B %Y" }}.
+            {{ site.author.name | default: site.name }}, "{{ page.title }}," <em>Personal Website</em>, {{ page.date | default: site.time | date: "%B %Y" }}.
           </span>
         </p>
       </div>
