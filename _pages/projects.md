@@ -12,6 +12,8 @@ redirect_from:
 
 ### Master's Thesis Research on Secondary Image Data
 
+**Secondary data** is contextual ecological information incidentally captured in an image, such as habitats, species interactions, physiological state, phenology, morphology, ontogeny, and sex ([Callaghan et al., 2021](https://doi.org/10.1093/biosci/biaa131); [Pernat et al., 2024](https://doi.org/10.1002/2688-8319.12295)). In my Master's research, I aim to demonstrate the versatility of secondary data for solving ecological problems and revealing ecological insights. I am particularly excited about stimulating interest and creativity in the use of secondary data in ecological studies. For more information on mine and others' work on secondary data, see my [Secondary Data Page](..\_pages\secondary-data.md).
+
 ![ILTWS poster demonstrating my master's thesis work on secondary data](..\images\ILTWS_poster_04_08_2026.jpg)
   
 

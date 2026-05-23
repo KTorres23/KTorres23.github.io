@@ -4,11 +4,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+hide_disclaimer: true
 ---
 
-### About Me
-
-I'm a Master's student in [Forestry](https://sfh.siu.edu/) at [Southern Illinois University](https://siu.edu/) advised by [Dr. Brent S. Pease](https://peaselab.com). I am focused on exploring the intersection of **participatory science**, **technology**, and **ecology**. My Master's research lies in the [digital ecology](https://doi.org/10.1111/2041-210x.70243) domain, where I focus on leveraging secondary image data from [iNaturalist](https://www.inaturalist.org/) to study [(1)](../_pages/projects.md#masters-thesis-research-on-secondary-image-data) how distinguishing observer behaviors in species distribution modelling can better address spatial biases and [(2)](../_pages/projects.md#masters-thesis-research-on-secondary-image-data) how digitally-derived morphological characters can support taxonomic classifications through the framework of integrative taxonomy.
+I'm a Master's student in [Forestry](https://sfh.siu.edu/) at [Southern Illinois University](https://siu.edu/) advised by [Dr. Brent S. Pease](https://peaselab.com). I am focused on exploring the intersection of **participatory science**, **technology**, and **ecology**. My Master's research lies in the [digital ecology](https://doi.org/10.1111/2041-210x.70243) domain, where I leverage secondary image data from [iNaturalist](https://www.inaturalist.org/) to study [(1)](../_pages/projects.md#masters-thesis-research-on-secondary-image-data) how distinguishing observer behaviors in species distribution modelling can better address spatial biases and [(2)](../_pages/projects.md#masters-thesis-research-on-secondary-image-data) how digitally-derived morphological characters can support taxonomic classifications through the framework of integrative taxonomy.
 
 On a broader scale, my interdisciplinary work applies the computer and participatory sciences to address long-standing biological and ecological challenges. Spanning diverse topics from wildfires to moths, my research draws insights from a wide range of disciplines. It touches on biogeography, data science, artificial intelligence, machine & deep learning, taxonomy, ecology, conservation, and so much more.
 
