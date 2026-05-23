@@ -19,6 +19,15 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
+    {% if page.last_modified_at %}
+      <p class="page__date" style="font-size: 0.85em; color: #666; margin-bottom: 20px;">
+        <strong>Last Updated:</strong> 
+        <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+          {{ page.last_modified_at | date: "%B %d, %Y" }}
+        </time>
+      </p>
+    {% endif %}
     {{ content }}
+    {% include disclaimer.html %}
   </div>
 </div>

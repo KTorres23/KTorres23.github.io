@@ -5,8 +5,8 @@ author_profile: true
 layout: archive
 redirect_from:
   - /research
-date: "2026-05-23"
-hide_disclaimer: false
+last_modified_at: 2026-05-23
+show_disclaimer: true
 ---
 
 {% include base_path %}
