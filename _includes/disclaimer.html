@@ -1,4 +1,4 @@
-{% unless page.show_disclaimer %}
+{% if page.show_disclaimer %}
 <!-- AcademicPages Blog Post Disclaimer -->
 <div class="academic-disclaimer"
   style="margin-top: 40px; padding: 20px; border-top: 1px solid #ddd; font-size: 0.9em; color: #555; background-color: #fcfcfc; border-radius: 4px; clear: both;">
@@ -26,4 +26,4 @@
     </span>
   </p>
 </div>
-{% endunless %}
+{% endif %}
