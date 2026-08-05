@@ -15,6 +15,7 @@ show_disclaimer: true
 ### Community, Outreach & Leadership Initiatives
 
 To me, bridging participatory science, ecology and conservation, and computer science involves more than just the research. Check out my community leadership and outreach efforts on my [Outreach & Initiatives](/initiatives/) page:
+- **Active Animals Ontology (ACTAN):** Developing backend support for the [Active Animals Ontology](https://github.com/Active-Animals) to structure animal behavior data.
 - **iNaturalist Ambassador:** Planning bioblitzes, participatory science workshops, and biodiversity documentation.
 - **TWS Student Chapter President:** Leading the SIU Student Chapter of The Wildlife Society in professional development and student mentorship.
 - **Monthly Vibe Coding Parties:** Check out our project showcase at the [Vibe Coding Party Gallery](https://ktorres23.github.io/vibe-coding-party-gallery/).

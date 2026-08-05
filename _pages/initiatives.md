@@ -18,6 +18,9 @@ As President of the SIU Student Chapter of The Wildlife Society (2026-2027), I l
 
 ### Community Engagement & Technical Outreach
 
+#### Active Animals Ontology
+As part of the [**Active Animals**](https://github.com/Active-Animals) project, I help develop the backend infrastructure to standardize and structure animal behavior and ecological interaction data for the community.
+
 #### iNaturalist Ambassador
 As an **iNaturalist Ambassador**, I work to engage people with the iNaturalist platform, teaching others how to recognize local biodiversity and document it for science (like mine!). I advocate for ethical recording practices and lead outreach events to bring others together. I help conduct **bioblitzes**, **tutorials** on how to contribute to iNatuarlist, and **presentations** on how participatory science data contains a wealth of information for scientific discovery
 
