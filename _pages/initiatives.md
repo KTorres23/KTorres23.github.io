@@ -22,7 +22,7 @@ As President of the SIU Student Chapter of The Wildlife Society (2026-2027), I l
 As an **iNaturalist Ambassador**, I work to engage people with the iNaturalist platform, teaching others how to recognize local biodiversity and document it for science (like mine!). I advocate for ethical recording practices and lead outreach events to bring others together. I help conduct **bioblitzes**, **tutorials** on how to contribute to iNatuarlist, and **presentations** on how participatory science data contains a wealth of information for scientific discovery
 
 #### WILDLABS Group Leader
-As a co-leader of the WILDLABS **AI for Ecology** group (2026-2027), I help foster a global community of conservation tech practitioners, researchers, and developers exploring artificial intelligence applications in ecological monitoring. I facilitate group discussions, share resources, and connect people working at the intersection of AI and ecological conservation.
+As a co-leader of the WILDLABS **AI for Conservation** group (2026-2027), I help foster a global community of conservation tech practitioners, researchers, and developers exploring artificial intelligence applications in ecological monitoring. I facilitate group discussions, share resources, and connect people working at the intersection of AI and ecological conservation.
 
 #### Biodiversity Hall of Fame
 An initiative dedicated to celebrating global biodiversity, ecological conservation, and community efforts in documenting and honoring species diversity worldwide.
