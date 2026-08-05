@@ -47,7 +47,7 @@ A classic approach involves fine-tuning general foundation image classification 
   </div>
 </div>
 
-So, we have the existing technology that is capable of automating, or streamlining, the extraction of secondary data. And we also have a framework for the secondary data retrieval process. However, there is a lack of readily-available tools for anyone to use. [Vendrow, Chae, Kurinchi-Vendhan et al. (2025)](https://doi.org/10.48550/arXiv.2511.15656) *do* have a [web-hosted version of INQUIRE-Search](http://inquire-demo.csail.mit.edu/); unfortunately, this interface has never worked on my computers (perhaps it will for yours?). I have preliminary explored ways to develop an accessible interface for streamlining the exploration of secondary data (see below for more information about the [Secondary Data Explorer](#the-secondary-data-explorer)). I am interested in improving accessibility of tools related to secondary data for researchers and participatory scientists alike.
+So, we have the existing technology that is capable of automating, or streamlining, the extraction of secondary data. And we also have a framework for the secondary data retrieval process. However, there is a lack of readily-available tools for anyone to use. [Vendrow, Chae, Kurinchi-Vendhan et al. (2025)](https://doi.org/10.48550/arXiv.2511.15656) *do* have a [web-hosted version of INQUIRE-Search](http://inquire-demo.csail.mit.edu/); unfortunately, this interface has never worked on my computers (perhaps it will for yours?). iNaturalist does have a working [Vision Language Demo](https://www.inaturalist.org/vision_language_demo) that lets you "search" for secondary data! I have preliminary explored ways to develop an accessible interface for streamlining the exploration of secondary data (see below for more information about the [Secondary Data Explorer](#the-secondary-data-explorer)). I am interested in improving accessibility of tools related to secondary data for researchers and participatory scientists alike.
 
 
 # Table of Contents
@@ -73,11 +73,19 @@ TBD
 The [**Secondary Data Explorer**](https://ktorres23.github.io/ecology-vibe-coding/pages/secondary_explorer.html) emerged from an interest to:
 
 1. automate secondary data extraction,
-2. showcase how awesome [**vibe coding**](#vibe-coding) is, and
-3. provide accessible tools for both researchers and participatory scientists.
+2. showcase how useful [**vibe coding**](#vibe-coding) can be for ecological research, and
+3. provide a simple interactive tool for exploring secondary image data from iNaturalist observations.
 
-...TBD
+It allows users to quickly inspect observation photos, explore secondary data categories (like observer behaviors, microhabitats, and species interactions), and extract relevant metadata without manual overhead.
+
+**Check out the tool:** [Secondary Data Explorer](https://ktorres23.github.io/ecology-vibe-coding/pages/secondary_explorer.html)
+
+
 
 ## Vibe Coding
 
-TBD
+**Vibe coding** is an intuitive, AI-assisted approach to programming where developers and non-programmers alike guide LLMs (e.g., Claude, ChatGPT) using natural language prompts to quickly create and experiment with code. 
+
+In ecology and conservation, vibe coding opens up exciting new possibilities by lowering technical barriers, allowing researchers and participatory scientists to turn creative ideas into functional tools, such as data processing workflows, interactive web apps, and data extraction pipelines like the **Secondary Data Explorer**.
+
+Check out community projects created during our monthly sessions at the [**Vibe Coding Party Gallery**](https://ktorres23.github.io/vibe-coding-party-gallery/)!

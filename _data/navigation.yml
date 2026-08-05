@@ -23,6 +23,9 @@ main:
   #- title: "News"
   #  url: /year-archive/
     
+  - title: "Outreach & Initiatives"
+    url: /initiatives/
+
   - title: "CV"
     url: /cv/
   

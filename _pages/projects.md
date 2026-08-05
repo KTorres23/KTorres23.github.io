@@ -12,12 +12,23 @@ show_disclaimer: true
 {% include base_path %}
 
 
+### Community, Outreach & Leadership Initiatives
+
+To me, bridging participatory science, ecology and conservation, and computer science involves more than just the research. Check out my community leadership and outreach efforts on my [Outreach & Initiatives](/initiatives/) page:
+- **iNaturalist Ambassador:** Planning bioblitzes, participatory science workshops, and biodiversity documentation.
+- **TWS Student Chapter President:** Leading the SIU Student Chapter of The Wildlife Society in professional development and student mentorship.
+- **Monthly Vibe Coding Parties:** Check out our project showcase at the [Vibe Coding Party Gallery](https://ktorres23.github.io/vibe-coding-party-gallery/).
+- **Biodiversity Hall of Fame:** Learn more about recognizing young naturalists at [biodiversityhalloffame.org](https://www.biodiversityhalloffame.org/).
+
+---
+
 ### Master's Thesis Research on Secondary Image Data
 
 **Secondary data** is contextual ecological information incidentally captured in an image, such as habitats, species interactions, physiological state, phenology, morphology, ontogeny, and sex ([Callaghan et al., 2021](https://doi.org/10.1093/biosci/biaa131); [Pernat et al., 2024](https://doi.org/10.1002/2688-8319.12295)). In my Master's research, I aim to demonstrate the versatility of secondary data for solving ecological problems and revealing ecological insights. I am particularly excited about stimulating interest and creativity in the use of secondary data in ecological studies. For more information on mine and others' work on secondary data, see my [Secondary Data Page](/secondary-data/).
 
 ![ILTWS poster demonstrating my master's thesis work on secondary data](..\images\ILTWS_poster_04_08_2026.jpg)
   
+---
 
 ### Undergraduate Research
 
