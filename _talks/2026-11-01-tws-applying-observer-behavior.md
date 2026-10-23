@@ -11,7 +11,7 @@ location: "Des Moines, IA"
 Torres KM, Pease BS. Poster presented at The Wildlife Society 2026 Annual Conference.
 
 
-[TWS 2026 Annual Conference Poster](..\images\TWS_poster_2026-10-15.jpg)
+![TWS 2026 Annual Conference Poster](..\images\TWS_poster_2026-10-23.jpg)
 
 
 **Supplementary material**
